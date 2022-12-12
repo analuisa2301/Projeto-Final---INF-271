@@ -1,0 +1,35 @@
+h1{
+    background-color:#3399ff;
+    width: 1320px;
+    padding: 3px;
+    border: 5px solid gray;
+    margin: 0;
+}
+   h1,h3{
+    text-align:center;
+    float: left; width: 200px;
+    margin-top: 0px; background:silver;
+    }
+   h3+p{
+     background-color: #ffff66;
+     }
+   .ab{
+     font-size:20px;
+     text-align: center;
+     
+     }	
+   p~div{ 
+     background-color:#77ff33;
+     text-align:center;
+     }
+   a:hover{
+     background-color:#ff6600;
+     text-decoration: overline;
+     }
+   *{
+    background-color:#e6ffb3;
+    }
+   img{
+      float:left;
+      padding: 2px; border: 10px solid #6C4788;
+   }
